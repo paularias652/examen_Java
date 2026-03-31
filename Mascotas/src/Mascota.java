@@ -1,3 +1,18 @@
+/*
+Mascota tiene:
+
+id
+nombre
+edad
+constructor
+getters y setters
+mostrarInfo()
+hacerSonido()
+
+*/
+
+
+
 public class Mascota {
     private int id;
     private String nombre;
