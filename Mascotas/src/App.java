@@ -1,3 +1,16 @@
+/*Mascota es la clase padre por que contiene atributos comunes
+
+perro, gato y ave heredan de Mascota
+El polimorfismo se ve cuando todas las mascotas están en ArrayList<Mascota> pero cada una ejecuta su propio hacerSonido().
+
+
+
+
+
+*/
+
+
+
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
